@@ -1,4 +1,4 @@
-# Repository Name: Fraud-Card-Detection-ML
+# Fraud-Card-Detection-ML
 
 ## Description:
 Welcome to the Fraud Card Detection Machine Learning Project! In this repository, we've developed a robust machine learning model for detecting fraudulent credit card transactions. Our approach encompasses various crucial steps:
