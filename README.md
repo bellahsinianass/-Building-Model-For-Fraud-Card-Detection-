@@ -1,13 +1,16 @@
-#Repository Name: Fraud-Card-Detection-ML
+# Repository Name: Fraud-Card-Detection-ML
 
-#Description:
+# Description:
 Welcome to the Fraud Card Detection Machine Learning Project! In this repository, we've developed a robust machine learning model for detecting fraudulent credit card transactions. Our approach encompasses various crucial steps:
 
-Exploratory Data Analysis (EDA): To gain a deeper understanding of our dataset, we have applied Exploratory Data Analysis techniques. EDA allows us to uncover patterns and insights within the data, making it an essential first step in our project.
+# Exploratory Data Analysis (EDA):  
+To gain a deeper understanding of our dataset, we have applied Exploratory Data Analysis techniques. EDA allows us to uncover patterns and insights within the data, making it an essential first step in our project.
 
-Data Preprocessing: We've addressed issues like imbalanced data to ensure the quality and reliability of our model. Data preprocessing is crucial for creating a model that performs well on real-world data.
+# Data Preprocessing:
+We've addressed issues like imbalanced data to ensure the quality and reliability of our model. Data preprocessing is crucial for creating a model that performs well on real-world data.
 
-Machine Learning Algorithms: We've harnessed a variety of machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and Random Forest. These algorithms have been carefully chosen for their potential to excel in fraud detection tasks.
+# Machine Learning Algorithms:
+We've harnessed a variety of machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and Random Forest. These algorithms have been carefully chosen for their potential to excel in fraud detection tasks.
 
 Performance Metrics: We measure the performance of these algorithms using key metrics such as Mean Absolute Error (MAE) and F1 Score. These metrics help us evaluate the effectiveness of our model in balancing precision and recall.
 
