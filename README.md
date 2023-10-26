@@ -17,10 +17,10 @@ We measure the performance of these algorithms using key metrics such as Mean Ab
 
 # Repository Contents:
 
-## Jupyter Notebooks: 
+## Jupyter Notebooks:  
 Contains the code for EDA, data preprocessing, and machine learning model development.
 ## Dataset: 
-The dataset used for training and testing the model from Kaagle ().
+The dataset used for training and testing the model from Kaagle ( https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud ).
 Getting Started:
 
 
