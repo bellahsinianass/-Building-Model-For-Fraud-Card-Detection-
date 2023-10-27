@@ -23,8 +23,7 @@ Contains the code for EDA, data preprocessing, and machine learning model develo
 The dataset used for training and testing the model from Kaagle ( https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud ).
 Getting Started:
 
-
+## contributions: 
 We welcome contributions from the open-source community to improve and expand this project. Feel free to create issues, suggest enhancements, or submit pull requests.
-
 Let's work together to enhance the security of digital financial transactions and build a reliable fraud card detection system!
 
