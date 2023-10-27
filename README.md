@@ -1,5 +1,6 @@
 # Fraud-Card-Detection-ML
-Description: Welcome to the Fraud Card Detection Machine Learning Project! In this repository, we've developed a robust machine learning model for detecting fraudulent credit card transactions. Our approach encompasses various crucial steps:
+
+Welcome to the Fraud Card Detection Machine Learning Project! In this repository, we've developed a robust machine learning model for detecting fraudulent credit card transactions. Our approach encompasses various crucial steps:
 
 ## Exploratory Data Analysis (EDA):  
 To gain a deeper understanding of our dataset, we have applied Exploratory Data Analysis techniques. EDA allows us to uncover patterns and insights within the data, making it an essential first step in our project.
