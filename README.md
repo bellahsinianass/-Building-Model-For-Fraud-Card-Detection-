@@ -21,7 +21,6 @@ We measure the performance of these algorithms using key metrics such as Mean Ab
 Contains the code for EDA, data preprocessing, and machine learning model development.
 ## Dataset: 
 The dataset used for training and testing the model from Kaagle ( https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud ).
-Getting Started:
 
 ## contributions: 
 We welcome contributions from the open-source community to improve and expand this project. Feel free to create issues, suggest enhancements, or submit pull requests.
